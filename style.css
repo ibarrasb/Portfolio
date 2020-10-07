@@ -67,15 +67,12 @@ a:hover{
         height: 450px;
         border-style: ridge;
         border-color:grey;
-        padding: 100px;
+        padding: 20px;
         margin: 100px;
         align-items: center;
         justify-content: center;
     
     }
 
-    body{
-        background-color: red;
-        color: red;
-    }
+   
 }
