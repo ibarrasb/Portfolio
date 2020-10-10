@@ -120,6 +120,14 @@ Starts the inside of the body:
     margin: 15px;
  
 }
+.form-control{
+    width: 50%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
 
 @media screen and (max-width:600px){
     .container{
@@ -128,4 +136,4 @@ Starts the inside of the body:
 
        
    
-    }
+    
